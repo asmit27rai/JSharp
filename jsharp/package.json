@@ -1,0 +1,14 @@
+{
+    "name": "jsharp",
+    "version": "1.0.0",
+    "description": "A simple programming language built on top of JavaScript.",
+    "main": "src/main.js",
+    "scripts": {
+      "start": "node src/main.js examples/test.jsharp"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "author": "",
+    "license": "ISC"
+  }
+  
